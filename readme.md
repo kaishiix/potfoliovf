@@ -21,15 +21,15 @@ Projeto final da primeira etapa do módulo full-stack do bootcamp Atlântico Ava
 
 ### Links
 
-- Site URL: [Link ativo]()
+- Site URL: [Link ativo](https://kaishiix.github.io/potfoliovf/)
 
 
 ### Screenshots
 
-![screenshot]()
-![screenshot]()
-![screenshot]()
-![screenshot]()
+![screenshot](imagens/print/Captura%20de%20tela%202025-05-16%20223157.png)
+![screenshot](imagens/print/Captura%20de%20tela%202025-05-16%20223615.png)
+![screenshot](imagens/print/Captura%20de%20tela%202025-05-16%20223626.png)
+![screenshot](imagens/print/Captura%20de%20tela%202025-05-16%20223645.png)
 
 
 
